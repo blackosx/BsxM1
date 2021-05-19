@@ -12,15 +12,18 @@ A set of PNG files wrapped in Apple .icns file format suitable for using as a th
 Please refer to [OpenCore beauty treatment](https://dortania.github.io/OpenCore-Post-Install/cosmetic/gui.html#setting-up-opencore-s-gui) at dortania.
 
 **Compatible with OpenCore Version**<br>
-0.7.0
-Note: Since OpenCore 0.7.0, the EFI/OC/Resources/Image/ directory will contain a Vendor directory which in turn will contain subsequent theme dirs.
+0.7.0<br>
+*Note: Since OpenCore 0.7.0, the EFI/OC/Resources/Image/ directory will contain a Vendor directory which in turn will contain subsequent theme dirs.*
 
 
 **Using this theme**<br>
 This repository contains a Blackosx directory with a sub-directory BsxM1_ which contains all necessary ICNS files for the theme.
 
-If you don't have a Blackosx directory in EFI/OC/Resources/Image/ then add the Blackosx directory to EFI/OC/Resources/Image/ directory in your systems EFI System Partition.
-If you already have EFI/OC/Resources/Image/Blackosx/ then just add the BsxM1_ directory
+If you don't have a EFI/OC/Resources/Image/Blackosx directory in EFI/OC/Resources/Image/<br>
+- then add the Blackosx directory to EFI/OC/Resources/Image/ directory in your systems EFI System Partition.
+
+If you already have EFI/OC/Resources/Image/Blackosx/<br>
+- then just add the BsxM1_ directory
 
 Either way, for this theme you will want to end up having
 EFI/OC/Resources/Image/Blackosx/BsxM1_
