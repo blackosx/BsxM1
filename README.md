@@ -58,5 +58,8 @@ For the best experience using this theme you will want the text to display in wh
                     <data>AAAAAA==</data>
 ```
 
+**Selected Icon(s)**<br>
+This theme includes a default Selected icon which uses the four colours of Apple's M1 artwork design, and also four alternative Selected icons each using just one of the original colours. If you wish to use one of these alternative versions then you will need to change the filename of the current Selected.icns to something like #Selected.icns and then rename one of the alternate icons to Selected.icns
+
 **Credits**<br>
 The design of this theme is based on the original Apple image for their M1 chip
